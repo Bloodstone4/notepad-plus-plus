@@ -1,4 +1,5 @@
 echo off
+echo off
 rem This file is part of Notepad++ project
 rem Copyright (C)2021 Don HO <don.h@free.fr>
 rem
